@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "PeruSat-1",
+        "description": "eruSat-1 es un satélite de observación terrestre de propiedad del gobierno peruano el cual es operado por su agencia espacial CONIDA, entidad adscrita al Ministerio de Defensa. Fue construido en Francia por la empresa Airbus Defence & Space4​ y se encuentra operando desde el año 2016."
+    },
+    {
+        "id": 2,
+        "name": "Explorer 1",
+        "description": "Fue el primer vehículo espacial que detectó los cinturones de radiación de Van Allen,12​ bautizados así en honor a James van Allen, quien había dirigido el diseño y la construcción de la instrumentación científica del Explorer 1, que envió datos durante algo menos de cuatro meses, hasta que sus baterías se agotaron. El pequeño satélite permaneció en órbita hasta el 31 de marzo de 1970, cuando se produjo su reentrada en la atmósfera y se precipitó al océano Pacífico. Fue el primer lanzamiento del programa Explorer, una larga serie de más de noventa satélites estadounidenses."
+    }
+]
