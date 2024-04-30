@@ -1,12 +1,12 @@
 import React from 'react';
+import Tabs from '../functions/Tabs.js';
 
 class SateliteInfo extends React.Component {
-        
+
     render() {
         return (
             <div>
-                <h1>{this.props.sateliteInfo.sateliteSelected.name}</h1>
-                <h2>{this.props.sateliteInfo.sateliteSelected.description}</h2>
+                <Tabs satelite={this.props.sateliteInfo.sateliteSelected}/>
             </div>
         );
     }

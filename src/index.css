@@ -1,0 +1,24 @@
+.block-tabs{
+    display: flex;
+}
+
+.active-tabs{
+    background: white;
+    border-bottom: 1px solid transparent;
+}
+
+.active-tabs::before{
+    content: "";
+    display: block;
+    position: absolute;
+    background: rgb(88, 147, 241);
+}
+
+.content{
+    background: white;
+    display: none;
+}
+
+.active-content{
+    display: block;
+}
